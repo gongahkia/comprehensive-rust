@@ -1,3 +1,0 @@
-# Borrowing
-
-{{%segment outline}}

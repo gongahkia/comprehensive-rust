@@ -1,3 +1,0 @@
-# Lifetimes
-
-{{%segment outline}}

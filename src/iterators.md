@@ -1,3 +1,0 @@
-# Iterators
-
-{{%segment outline}}

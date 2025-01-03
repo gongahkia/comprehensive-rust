@@ -1,3 +1,0 @@
-# Generics
-
-{{%segment outline}}

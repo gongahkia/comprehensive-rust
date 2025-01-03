@@ -1,3 +1,0 @@
-# Shared State
-
-{{%segment outline}}
