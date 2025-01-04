@@ -223,7 +223,7 @@ impl<L: Logger> Logger for VerbosityFilter<L> {
 
 fn main() {
 
-    println!("~~~ Comprehensive Rust: Day 1 Morning ~~~");
+    println!("~~~ Comprehensive Rust: Day 2 Morning ~~~");
 
     // pattern-matching 
 
